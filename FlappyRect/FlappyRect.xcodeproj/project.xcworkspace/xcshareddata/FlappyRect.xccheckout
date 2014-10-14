@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D3C25FF6-1A0E-4C5F-87B6-E39894D517C6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlappyRect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>916C876E-1D08-4881-84BE-69900F88C728</key>
+		<string>https://github.com/PandaraWen/FlappyRect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlappyRect/FlappyRect/FlappyRect.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>916C876E-1D08-4881-84BE-69900F88C728</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PandaraWen/FlappyRect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>916C876E-1D08-4881-84BE-69900F88C728</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>916C876E-1D08-4881-84BE-69900F88C728</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlappyRect</string>
+		</dict>
+	</array>
+</dict>
+</plist>
